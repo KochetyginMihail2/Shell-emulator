@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Кэши тестов и линтеров
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Виртуальные окружения
+venv/
+.venv/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Мусор ОС
+.DS_Store
+Thumbs.db
